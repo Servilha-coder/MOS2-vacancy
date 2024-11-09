@@ -4,7 +4,7 @@
 O objetivo desse código é estudar a influência da densidade de vacâncias no band gap de MoS₂. 
 
 
- O notebook [`Bandas.ipynb`](Bandas.ipynb) possui a implemntação em alguns comentários do estudo em questão.
+ O notebook [`Bandas.ipynb`](Bandas.ipynb) possui a implementação e alguns comentários do estudo em questão.
   
 
 ### Exemplo
