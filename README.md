@@ -8,10 +8,10 @@ O objetivo desse código é estudar a influência da densidade de vacâncias no 
   
 
 ### Exemplo
-Aqui está um exemplo de resultado que você obterá com o algoritmo.
+Aqui está um exemplo de resultado que você obterá com o código de [`Bandas.ipynb`](Bandas.ipynb).
 
 
-<img src="bandas.jpg" alt="Bandas" width="600" height="400"/>
+<img src="bandas.jpg" alt="Bandas" width="600" height="600"/>
 
 ### Contribuições
 Contribuições são bem-vindas! Por favor, siga estes passos:
