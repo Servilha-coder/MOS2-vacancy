@@ -11,7 +11,7 @@ O objetivo desse código é estudar a influência da densidade de vacâncias no 
 Aqui está um exemplo de resultado que você obterá com o algoritmo.
 
 
-<img src="bandas.jpeg" alt="Bandas" width="600" height="400"/>
+<img src="bandas.jpg" alt="Bandas" width="600" height="400"/>
 
 ### Contribuições
 Contribuições são bem-vindas! Por favor, siga estes passos:
